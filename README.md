@@ -1,2 +1,3 @@
 # git_test
-Learning how to use GIT
+Learning how to use GIT.
+Hello, World!
